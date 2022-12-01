@@ -1,2 +1,2 @@
 YEP
-# sanya lox
+# sanya norm chel
